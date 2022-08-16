@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trading Journal**
 
-- 🌱 I’m currently learning **Blockchain, Solidity, Hardhat etc.**
+- 🌱 I’m currently learning **Blockchain, Solidity and Rust**
 
 - 💬 Ask me about **React, Node.js, Express.js, Motoku, Solidity**
 
