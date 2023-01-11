@@ -8,7 +8,7 @@ I am a 3rd year student of Computer Engineering Department. I’ve been involved
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [erenydurann@gmail.com](mailto:erenydurann@gmail.com)
-* 🧠  I'm learning Rust, Solana, Typescript
+* 🧠  I'm learning Rust, Typescript
 * 🤝  I'm open to collaborating on Blockchain Projects
 
 ### Skills
