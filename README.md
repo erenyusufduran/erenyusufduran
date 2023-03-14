@@ -40,11 +40,3 @@ I am a 3rd year student of Computer Engineering Department. I’ve been involved
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/erenyusufduran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erenyusufduran&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/erenyusufduran/nasa-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erenyusufduran&repo=nasa-backend&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/erenyusufduran/jobs-api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erenyusufduran&repo=jobs-api&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/erenyusufduran/nft-wars-nuefi-chall" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=erenyusufduran&repo=nft-wars-nuefi-chall&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
