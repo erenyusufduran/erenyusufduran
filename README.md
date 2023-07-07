@@ -4,7 +4,11 @@ Hi 👋 My name is Eren Yusuf Duran
 Backend & Blockchain Developer
 ------------------------------
 
-I am a 3rd year student of Computer Engineering Department. I’ve been involved with software for about 2,5 years. In my software adventure, which I started by trying different languages such as C# and Python, I am currently working with Javascript and Solidity. At this point, Express.js and React.js are the technologies I use the most. In the future, I want to learn Go, Rust and Cairo languages. The main job I want to do in the industry is to deal with Backend Development and Blockchain development. I am currently working mainly as a Backend Developer at Colin's.
+I have been involved in software development for about 3 years, and after trying myself in various fields, I realized that I have a greater affinity for backend development. As a result, I gravitated towards Node.js technologies and have worked with tools like Express.js, MongoDB, PostgreSQL, Next.js, and React.js.
+
+Later on, I got introduced to blockchain and fell in love with its fundamental and technical philosophy. Consequently, I learned technologies such as Solidity, Chainlink, Hardhat, OpenZeppelin, and Hyperledger to be able to develop applications in the blockchain space.
+
+Currently, I work as a software developer at Colin’s, where I utilize technologies like Docker, Hyperledger, Node.js, Typescript, MongoDB.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [erenydurann@gmail.com](mailto:erenydurann@gmail.com)
