@@ -8,9 +8,9 @@ I have been involved in software development for about 3 years, and after trying
 
 Later on, I got introduced to blockchain and fell in love with its fundamental and technical philosophy. Consequently, I learned technologies such as Solidity, Chainlink, Hardhat, OpenZeppelin, and Hyperledger to be able to develop applications in the blockchain space.
 
-Currently, I work as a software developer at Colin’s, where I utilize technologies like Docker, Hyperledger, Node.js, Typescript, MongoDB.
+Currently, I work as a software developer at Colin’s, where I utilize technologies like **Docker**, **Hyperledger**, **Node.js**, **Typescript**, **MongoDB**.
 
-* 🌍  I'm based in Istanbul
+* 🌍  Based in Istanbul
 * ✉️  You can contact me at [erenydurann@gmail.com](mailto:erenydurann@gmail.com)
 * 🧠  I'm learning, Typescript, Hyperledger Fabric
 * 🤝  I'm open to collaborating on Blockchain Projects
