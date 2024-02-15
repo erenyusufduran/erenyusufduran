@@ -12,8 +12,7 @@ Currently, I work as a software developer at Colin’s, where I utilize technolo
 
 * 🌍  Based in Istanbul
 * ✉️  You can contact me at [erenydurann@gmail.com](mailto:erenydurann@gmail.com)
-* 🧠  I'm learning, Typescript, Hyperledger Fabric
-* 🤝  I'm open to collaborating on Blockchain Projects
+* 🧠  I'm learning Go
 
 ### Skills
 
