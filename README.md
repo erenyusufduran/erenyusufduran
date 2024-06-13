@@ -4,11 +4,17 @@ Hi 👋 My name is Eren Yusuf Duran
 Backend & Blockchain Developer
 ------------------------------
 
-I have been involved in software development for about 3 years, and after trying myself in various fields, I realized that I have a greater affinity for backend development. As a result, I gravitated towards Node.js technologies and have worked with tools like Express.js, MongoDB, PostgreSQL, Next.js, and React.js.
+I have been interested in software for about 3.5 years. At the beginning of this, I focused on the basics of computer
+science. Afterwards, I settled on certain concepts and decided to continue with JS. After continuing with the frontend
+for a while, I decided that I liked dealing with the backend more.
 
-Later on, I got introduced to blockchain and fell in love with its fundamental and technical philosophy. Consequently, I learned technologies such as Solidity, Chainlink, Hardhat, OpenZeppelin, and Hyperledger to be able to develop applications in the blockchain space.
+Around this time, I turned to Nodejs and improved myself there. Afterwards, I started working at Colins and learned agile
+development and teamwork much better there. I used to think that the technical parts were important, but nowadays I
+have learned that what is more important is being process and product oriented.
 
-Currently, I work as a software developer at Colin’s, where I utilize technologies like **Docker**, **Hyperledger**, **Node.js**, **Typescript**, **MongoDB**.
+These days, while I am trying to develop by learning more about product needs, I am also thinking about how we can
+achieve this in a better technical sense and developing accordingly. I try to make constant readings in both technical
+and process sense.
 
 * 🌍  Based in Istanbul
 * ✉️  You can contact me at [erenydurann@gmail.com](mailto:erenydurann@gmail.com)
